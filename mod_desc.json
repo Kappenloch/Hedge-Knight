@@ -1,0 +1,7 @@
+{
+	"displayedName": "Hedge Knight",
+	"prefix": "hedgeknight",
+	"description": "Adds a new human generic agent focused on combat.",
+	"versionsSupported":["0.11","0.12","0.13","0.14","1.0","1.1","2.0"],
+	"modCredit": "Kappenloch"
+}
